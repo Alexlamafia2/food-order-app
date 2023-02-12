@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Alexlamafia2/food-order-app.git/static/css/main.fffdc060.css",
-    "main.js": "/Alexlamafia2/food-order-app.git/static/js/main.70cf9c89.js",
-    "static/media/meals.jpg": "/Alexlamafia2/food-order-app.git/static/media/meals.2971f633fc1382581cbf.jpg",
-    "index.html": "/Alexlamafia2/food-order-app.git/index.html",
-    "main.fffdc060.css.map": "/Alexlamafia2/food-order-app.git/static/css/main.fffdc060.css.map",
-    "main.70cf9c89.js.map": "/Alexlamafia2/food-order-app.git/static/js/main.70cf9c89.js.map"
+    "main.css": "/food-order-app/static/css/main.7ce4fdcb.css",
+    "main.js": "/food-order-app/static/js/main.3bc733bc.js",
+    "static/media/meals.jpg": "/food-order-app/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/food-order-app/index.html",
+    "main.7ce4fdcb.css.map": "/food-order-app/static/css/main.7ce4fdcb.css.map",
+    "main.3bc733bc.js.map": "/food-order-app/static/js/main.3bc733bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.fffdc060.css",
-    "static/js/main.70cf9c89.js"
+    "static/css/main.7ce4fdcb.css",
+    "static/js/main.3bc733bc.js"
   ]
 }
