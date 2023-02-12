@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Alexlamafia2/food-order-app.git/static/css/main.fffdc060.css",
+    "main.js": "/Alexlamafia2/food-order-app.git/static/js/main.70cf9c89.js",
+    "static/media/meals.jpg": "/Alexlamafia2/food-order-app.git/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/Alexlamafia2/food-order-app.git/index.html",
+    "main.fffdc060.css.map": "/Alexlamafia2/food-order-app.git/static/css/main.fffdc060.css.map",
+    "main.70cf9c89.js.map": "/Alexlamafia2/food-order-app.git/static/js/main.70cf9c89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fffdc060.css",
+    "static/js/main.70cf9c89.js"
+  ]
+}
